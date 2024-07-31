@@ -1,8 +1,10 @@
-# AI Windows Processes Report
+# Ai Windows Process Report
 
-![AI Process Report Logo](images/ai1.png)
+
 
 AI Process Report is a powerful tool that analyzes running processes on Windows systems using advanced AI models. It provides detailed insights and threat assessments for each process, helping users understand their system's current state and potential security risks. The AI also provides a short detailed summery of each process and what it is used for. 
+
+![Ai Process Report Logo](images/ai1.png)
 
 ## Features
 

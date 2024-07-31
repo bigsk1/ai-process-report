@@ -1,0 +1,11 @@
+ai_process_report.log
+
+*.log
+.log
+*.json
+*.html
+
+.env
+env
+.venv
+venv

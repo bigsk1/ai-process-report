@@ -1,0 +1,6 @@
+psutil
+python-dotenv
+anthropic
+openai
+markdown
+rich

@@ -2,7 +2,7 @@
 
 
 
-AI Process Report is a powerful tool that analyzes running processes on Windows systems using advanced AI models. It provides detailed insights and threat assessments for each process, helping users understand their system's current state and potential security risks. The AI also provides a short detailed summery of each process and what it is used for. 
+AI Process Report is a powerful tool that analyzes running processes on Windows and Linux systems using advanced AI models. It provides detailed insights and threat assessments for each process, helping users understand their system's current state and potential security risks. The AI also provides a short detailed summery of each process and what it is used for. 
 
 Keep it all private and local using ollama or use openai or anthropic. Fine tune your own model with a better understanding of the security threats or use RAG and provide the model with additional details regarding threat processes. Using standard models do a good job at providing a description for the processes running or stopped. 
 

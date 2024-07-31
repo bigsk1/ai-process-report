@@ -10,7 +10,7 @@ Keep it all private and local using ollama or use openai or anthropic. Fine tune
 
 ## Features
 
-- 🔍 Analyzes running Windows processes in real-time
+- 🔍 Analyzes running processes in real-time
 - 🤖 Utilizes multiple AI providers (OpenAI, Anthropic, Ollama) for in-depth analysis
 - 🚀 Supports local AI models through Ollama integration
 - 📊 Generates comprehensive HTML reports with threat scores and process descriptions
@@ -99,7 +99,7 @@ python main.py --ai openai --debug
 
 ## How It Works
 
-1. The script gathers information about running processes on your Windows system.
+1. The script gathers information about running processes on your system.
 2. It sends this information to the selected AI model for analysis.
 3. The AI provides a description and threat score for each process.
 4. The script generates an HTML report with the results.

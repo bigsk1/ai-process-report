@@ -9,3 +9,5 @@ ai_process_report.log
 env
 .venv
 venv
+
+*.Ink
